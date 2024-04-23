@@ -1,4 +1,4 @@
-## 👋 Всем привет! Меня зовут Виктор!
+## 👋 Hi! I'm Victor!
 
 ## Связаться со мной
 <div style="display: flex; gap: 6px; width:100%;justify-content: center;">
