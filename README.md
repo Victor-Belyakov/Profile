@@ -4,7 +4,7 @@
 Xichkok/Xichkok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Связаться со мной
+Связаться со мной
 <br/>
 <div style="display: flex; gap: 8px; width:100%;justify-content: center;">
 <a href="https://t.me/Vi_iktor" target="_blank"><img 
