@@ -1,8 +1,8 @@
-👋 Hi, I’m Viktor
+## 👋 Hi, I’m Viktor
+<hr>
 
-Связаться со мной
+## Связаться со мной
 <div style="display: flex; gap: 6px; width:100%;justify-content: center;">
-<br/>
 <a href="https://vk.com/viiktorb" target="_blank"><img 
 style="width: 24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/48px-VK_Compact_Logo_%282021-present%29.svg.png"/></a>
 <a href="https://t.me/Vi_iktor" target="_blank"><img 
