@@ -1,4 +1,4 @@
-## 👋 I'm Victor! I'm a backend developer.
+## 👋 I'm Viktor! I'm a backend developer.
 
 ## Связаться со мной
 <div style="display: flex; gap: 6px; width:100%;justify-content: center;">
