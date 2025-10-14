@@ -1,12 +1,12 @@
 ## 👋 I'm Victor!
 
 ## 🛠 Skills
-- PHP, Yii2, Symfony  
-- PostgreSQL, MySQL
-- Couchebase, Elasticsearch
-- Docker, Linux
-- Kafka, Redis
-- Rest API, Git
+**Backend:** PHP, Yii2, Symfony  
+**Databases:** PostgreSQL, MySQL, Couchbase, Elasticsearch  
+**DevOps & Tools:** Docker, Linux, Git  
+**Messaging & Cache:** Kafka, Redis  
+**APIs:** REST
+
 
 ## 📫 Contact Me
 <div style="display: flex; gap: 6px; width:100%;justify-content: center;">
