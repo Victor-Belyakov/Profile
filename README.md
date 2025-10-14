@@ -5,7 +5,7 @@
 - PostgreSQL, MySQL
 - Couchebase, Elasticsearch
 - Docker, Linux
-- Kafka, redis
+- Kafka, Redis
 - Rest API, Git
 
 ## 📫 Contact Me
