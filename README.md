@@ -29,7 +29,7 @@
     alt="Telegram"
   />
 </a>
-<a href="[https://leetcode.com/your_username/](https://leetcode.com/u/Viktor-Belyakov/)" target="_blank">
+<a href="https://leetcode.com/u/Viktor-Belyakov/" target="_blank">
   <img 
     style="width: 24px" 
     src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" 
